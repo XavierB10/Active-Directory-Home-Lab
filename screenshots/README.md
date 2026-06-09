@@ -1,6 +1,7 @@
 This folder contains project screenshots
 
 Domain Controller
+ 
   Hardware Settings
 <img width="1383" height="683" alt="image" src="https://github.com/user-attachments/assets/66a3ab24-eae7-42d5-b6f9-c522917d006f" />
 <img width="1373" height="685" alt="image" src="https://github.com/user-attachments/assets/a37b3c7f-58e9-4435-ac87-e1cd5e6395b7" />
