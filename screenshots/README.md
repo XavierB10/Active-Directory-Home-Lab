@@ -7,6 +7,7 @@ This folder contains project screenshots
 <img width="1373" height="685" alt="image" src="https://github.com/user-attachments/assets/a37b3c7f-58e9-4435-ac87-e1cd5e6395b7" />
 <img width="1385" height="692" alt="image" src="https://github.com/user-attachments/assets/81a50290-566f-49e9-b2b6-a6f5b20f4431" />
 <img width="1378" height="688" alt="image" src="https://github.com/user-attachments/assets/079f6c0d-26b7-4c33-ad52-b751e40fe0dc" />
+<img width="1022" height="866" alt="image" src="https://github.com/user-attachments/assets/48f047be-6858-4da6-b635-110c0ae1a1bf" />
 
 Active Directory Users and Computers
 
