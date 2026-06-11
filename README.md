@@ -23,7 +23,6 @@ This project demonstrates the deployment and administration of a Windows Active 
 | -------- | ------------------ | ------------- |
 | DC01     | Domain Controller  | 192.168.10.10 |
 | PC01     | Client Workstation | DHCP          |
-| PC02     | Client Workstation | DHCP          |
 
 ## Objectives
 
