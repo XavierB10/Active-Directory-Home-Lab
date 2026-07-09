@@ -8,6 +8,7 @@ This folder contains project screenshots
 
   
 Active Directory Users and Computers
+<img width="1017" height="747" alt="image" src="https://github.com/user-attachments/assets/1027f5c2-becf-49e4-8a6e-33fd025538ec" />
 
 Group Policy Management
 
