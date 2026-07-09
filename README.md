@@ -69,19 +69,6 @@ Configured policies for:
 * Drive mapping
 * USB restrictions
 
-## File Shares
-
-Created departmental shares:
-
-* HR
-* Sales
-* IT
-
-Configured:
-
-* NTFS Permissions
-* Share Permissions
-
 ## PowerShell Examples
 
 Create User:
@@ -136,6 +123,5 @@ Include screenshots showing:
 1. Domain Controller
 2. Active Directory Users and Computers
 3. Group Policy Management
-4. Shared Folder Permissions
 5. Domain Joined Workstations
 6. PowerShell Commands
